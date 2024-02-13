@@ -1,10 +1,11 @@
 #include <iostream>
+#icnlude <cassert>
 
 int sum(int a, int b){
 return a+b;
 }
 
 int main() {
-  std::cout << "Hello World!";
+  assert(sum(5,5)==10;
   return 0;
 }
