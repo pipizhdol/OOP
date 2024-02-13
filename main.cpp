@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main
+using namespace std;
 {
-  print("Hello World!');
+  cout<<"Hello World!";
 }
